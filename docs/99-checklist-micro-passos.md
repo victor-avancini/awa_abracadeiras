@@ -6,13 +6,13 @@
 > - Convenção de branch: `feature/<slug>` (ex.: `feature/inventory-movements`).
 
 ## 0. Repo e estrutura
-- [ ] Criar monorepo com pastas:
-  - [ ] `apps/backend/`
-  - [ ] `apps/frontend/`
-  - [ ] `infra/`
-  - [ ] `docs/`
-- [ ] Configurar `.editorconfig`, `.gitattributes`, `.gitignore`
-- [ ] Configurar padrão de commits (opcional) e template de PR
+- [x] Criar monorepo com pastas:
+  - [x] `apps/backend/`
+  - [x] `apps/frontend/`
+  - [x] `infra/`
+  - [x] `docs/`
+- [x] Configurar `.editorconfig`, `.gitattributes`, `.gitignore`
+- [x] Configurar padrão de commits (opcional) e template de PR
 
 ## 1. Backend (Spring Boot)
 - [ ] (Branch) `feature/backend-bootstrap`

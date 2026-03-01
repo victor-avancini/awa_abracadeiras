@@ -1,0 +1,12 @@
+# Normaliza finais de linha
+* text=auto eol=lf
+
+# Arquivos comuns
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+
+# Windows scripts (se existirem no futuro)
+*.bat text eol=crlf
