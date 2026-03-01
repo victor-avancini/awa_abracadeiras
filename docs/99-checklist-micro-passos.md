@@ -6,11 +6,11 @@
 > - Convenção de branch: `feature/<slug>` (ex.: `feature/inventory-movements`).
 
 ## 0. Repo e estrutura
-- [ ] Criar monorepo com pastas:
-  - [ ] `apps/backend/`
-  - [ ] `apps/frontend/`
-  - [ ] `infra/`
-  - [ ] `docs/`
+- [x] Criar monorepo com pastas:
+  - [x] `apps/backend/`
+  - [x] `apps/frontend/`
+  - [x] `infra/`
+  - [x] `docs/`
 - [ ] Configurar `.editorconfig`, `.gitattributes`, `.gitignore`
 - [ ] Configurar padrão de commits (opcional) e template de PR
 
