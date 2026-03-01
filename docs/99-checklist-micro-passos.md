@@ -11,8 +11,8 @@
   - [x] `apps/frontend/`
   - [x] `infra/`
   - [x] `docs/`
-- [ ] Configurar `.editorconfig`, `.gitattributes`, `.gitignore`
-- [ ] Configurar padrão de commits (opcional) e template de PR
+- [x] Configurar `.editorconfig`, `.gitattributes`, `.gitignore`
+- [x] Configurar padrão de commits (opcional) e template de PR
 
 ## 1. Backend (Spring Boot)
 - [ ] (Branch) `feature/backend-bootstrap`
