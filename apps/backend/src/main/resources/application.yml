@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: awa-abracadeiras
+  profiles:
+    default: local
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+  jpa:
+    hibernate:
+      ddl-auto: validate
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info"
+  endpoint:
+    health:
+      show-details: when_authorized
